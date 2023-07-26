@@ -1,0 +1,38 @@
+2023-03-28 20:50:55,929 [228] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:50:55,929 [230] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:50:55,929 [228] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:50:55,929 [230] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:50:55,931 [230] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:50:55,931 [230] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:50:55,931 [228] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success
+2023-03-28 20:50:55,931 [228] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success
+2023-03-28 20:52:41,326 [120] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /health, Method: GET, body `binary`
+2023-03-28 20:52:41,326 [120] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /health, Method: GET, body `binary`
+2023-03-28 20:52:44,209 [122] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /favicon.ico, Method: GET, body `binary`
+2023-03-28 20:52:44,209 [122] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /favicon.ico, Method: GET, body `binary`
+2023-03-28 20:53:18,806 [153] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:53:18,806 [153] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:53:18,806 [153] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success
+2023-03-28 20:53:18,806 [153] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success
+2023-03-28 20:53:18,806 [152] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:53:18,806 [152] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:53:18,806 [152] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:53:18,806 [152] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:53:31,342 [57] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /health, Method: GET, body `binary`
+2023-03-28 20:53:31,342 [57] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /health, Method: GET, body `binary`
+2023-03-28 20:53:35,111 [63] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger/, Method: GET, body `binary`
+2023-03-28 20:53:35,111 [63] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger/, Method: GET, body `binary`
+2023-03-28 20:53:39,448 [139] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger/html, Method: GET, body `binary`
+2023-03-28 20:53:39,448 [139] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger/html, Method: GET, body `binary`
+2023-03-28 20:53:42,958 [65] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger.html, Method: GET, body `binary`
+2023-03-28 20:53:42,958 [65] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger.html, Method: GET, body `binary`
+2023-03-28 20:54:40,401 [181] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger-ui.html, Method: GET, body `binary`
+2023-03-28 20:54:40,401 [181] INFO [app/lesson4/pkg/server.logmiddleware.func1] [server.go:81] [trace=00000000000000000000000000000000,span=0000000000000000,parent=] - req path: /swagger-ui.html, Method: GET, body `binary`
+2023-03-28 20:54:48,349 [151] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:54:48,349 [151] INFO [app/lesson4/pkg/server.Init.func2] [server.go:46] [trace=,span=,parent=] - Shutdown gin Server ...
+2023-03-28 20:54:48,349 [153] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:54:48,349 [153] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:37] [trace=,span=,parent=] - producer shutdown  success
+2023-03-28 20:54:48,349 [153] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:54:48,349 [153] INFO [app/lesson4/pkg/mq.InitKafaka.func1] [kafaka.go:39] [trace=,span=,parent=] - consumer shutdown success
+2023-03-28 20:54:48,349 [151] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success
+2023-03-28 20:54:48,349 [151] INFO [app/lesson4/pkg/server.Init.func2] [server.go:52] [trace=,span=,parent=] - Server Shutdown success

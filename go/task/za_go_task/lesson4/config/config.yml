@@ -1,0 +1,20 @@
+appName: lession4
+stats:
+  brokers:
+  - kafka.test.za.net:9092
+  topics:
+  - D-za-push-stat-202302011406
+  groupId: za-test
+
+
+redis:
+  addr: r-tj7t125z77z33oxjgt.redis.rds.aliyuncs.com:6379
+  password: oLXOfKi4tLvws9ID
+  db: 129
+  dialTimeout: 1000
+  writeTimeout: 1000
+  readTimeout: 1000
+
+mongodb:
+  url: mongodb://your-domain.com:3717,your-domain.com:3717your-dbname
+  dbname: your-dbname
