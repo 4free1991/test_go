@@ -15,6 +15,7 @@ import (
 func main() {
 
 	logger.Init()
+
 	config.InitConfig()
 
 	mongo.InitMongoClient()
